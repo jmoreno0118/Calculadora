@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CC-JJMP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_btncalc">Calculadora</string>
+    <string name="title_btnconv">Convertidor</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="title_activity_converter">Converter</string>
+    <string name="msg_converter">Ingrese la cantidad a convertir:</string>
+
+</resources>
